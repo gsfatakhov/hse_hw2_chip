@@ -2,7 +2,7 @@
 ## Фатахов Георгий группа 1
 #### Выбрана клеточная линия `A549` и гистоновая метка `H3K4me2`
 
-[Ноутбук]()
+[Ноутбук](https://colab.research.google.com/drive/17c1_Dj5DNSKA8T_0Qr4quZoKc7a_bgAI?usp=sharing)
 
 ### FastQC
 
